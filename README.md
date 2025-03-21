@@ -1,5 +1,3 @@
-markdown
-Copy
 # Bijzonderplekje Hotel Data Extractor
 
 A Python script that extracts hotel-related data (such as hotel name, category, referral link, rent per night, and address) from hotel websites. The script dynamically navigates JavaScript-oriented websites, handles infinite scrolling, and saves the extracted data into an Excel file for further analysis.
@@ -38,14 +36,11 @@ Before running the script, ensure you have the following installed:
    cd bijzonderplekje
 Install Dependencies:
 
-bash
-Copy
 pip install -r requirements.txt
 Run the Script:
-
-bash
-Copy
 python hotel_data_extractor.py
+
+
 How It Works
 WebDriver Initialization:
 
@@ -112,8 +107,6 @@ Selenium for web automation.
 googletrans for text translation.
 
 Pandas for data handling and Excel export.
-
-Copy
 
 ### Key Points in the README:
 1. **Overview**: Briefly describes the script's purpose and functionality.
