@@ -120,4 +120,3 @@ Pandas for data handling and Excel export.
 9. **Contributing**: Encourages contributions and collaboration.
 10. **License**: Specifies the license for the project.
 
-This README file provides a comprehensive guide for users and contributors to understand and use your script effectively. Let me know if you need further assistance!
